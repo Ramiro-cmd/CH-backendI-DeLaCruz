@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Monitor Gamer 27''",
+    "description": "Monitor Full HD 144Hz con panel IPS",
+    "code": "MON-001",
+    "price": 199.99,
+    "status": true,
+    "stock": 15,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/monitores/monitor1-front.jpg",
+      "/images/monitores/monitor1-back.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado mecánico con switches rojos y retroiluminación RGB",
+    "code": "TEC-002",
+    "price": 89.99,
+    "status": true,
+    "stock": 30,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/teclados/teclado1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mouse Inalámbrico",
+    "description": "Mouse inalámbrico ergonómico con batería recargable",
+    "code": "MOU-003",
+    "price": 34.5,
+    "status": true,
+    "stock": 40,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/mouses/mouse1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Procesador AMD Ryzen 5 5600X",
+    "description": "6 núcleos, 12 hilos, ideal para gaming y productividad",
+    "code": "CPU-004",
+    "price": 229,
+    "status": true,
+    "stock": 10,
+    "category": "Hardware",
+    "thumbnails": [
+      "/images/procesadores/ryzen5600x.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Memoria RAM DDR4 16GB",
+    "description": "Memoria RAM DDR4 3200MHz para PC de alto rendimiento",
+    "code": "RAM-005",
+    "price": 75,
+    "status": true,
+    "stock": 25,
+    "category": "Hardware",
+    "thumbnails": [
+      "/images/ram/ram16gb.jpg"
+    ]
+  }
+]
