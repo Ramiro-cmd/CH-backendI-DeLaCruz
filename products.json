@@ -64,5 +64,33 @@
     "thumbnails": [
       "/images/ram/ram16gb.jpg"
     ]
+  },
+  {
+    "id": 6,
+    "title": "Gabinete ATX con Ventiladores RGB",
+    "description": "Gabinete para PC tamaño ATX con vidrio templado y 4 ventiladores RGB incluidos",
+    "code": "GAB-006",
+    "price": 99.99,
+    "status": true,
+    "stock": 20,
+    "category": "Hardware",
+    "thumbnails": [
+      "/images/gabinetes/gabinete1-front.jpg",
+      "/images/gabinetes/gabinete1-side.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Disco SSD NVMe 1TB",
+    "description": "Unidad de estado sólido NVMe PCIe Gen3 x4, velocidad de lectura hasta 3500 MB/s",
+    "code": "SSD-007",
+    "price": 119.99,
+    "status": true,
+    "stock": 18,
+    "category": "Hardware",
+    "thumbnails": [
+      "/images/ssd/ssd1-front.jpg",
+      "/images/ssd/ssd1-package.jpg"
+    ]
   }
 ]
